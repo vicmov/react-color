@@ -55,7 +55,7 @@ npm i @uiw/react-color
 
 ```jsx
 import { Slider, Sketch, Material, Colorful, Compact, Circle, Wheel, Block, Github, Chrome } from '@uiw/react-color';
-import { Alpha, Hue, ShadeSlider, Saturation, Interactive, hsvaToHslaString } from '@uiw/react-color';
+import { Hue, ShadeSlider, Saturation, Interactive, hsvaToHslaString } from '@uiw/react-color';
 import { EditableInput, EditableInputRGBA, EditableInputHSLA } from '@uiw/react-color';
 
 function Demo() {
